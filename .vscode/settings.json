@@ -1,7 +1,13 @@
 {
     "cSpell.words": [
+        "cmap",
+        "contourf",
         "Losswith",
+        "meshgrid",
         "probs",
-        "unsqueezing"
+        "softmax",
+        "unsqueezing",
+        "xlim",
+        "ylim"
     ]
 }
